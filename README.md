@@ -1,2 +1,5 @@
-# GB-QML
-Mobile development in C++/Qt QUICK
+#### Course: Mobile development in C++/Qt QUICK  
+
+*** 
+
+Source codes of some practical exercises
